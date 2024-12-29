@@ -1,6 +1,6 @@
 # Factorio Nuclear Powered Spaceship Blueprint
 
-This folder contains the blueprint featured in the [Factorio Nuclear Spaceship: Step-by-Step Tutorial | Factorio Space Age](https://www.youtube.com/watch?v=uJwbb6Olrw4) on my YouTube channel, Maxiume. This unique design is a nuclear-powered spaceship equipped with laser turrets for defense and optimized for cargo transfer between inner planets.
+This folder contains the blueprint featured in the [Factorio Nuclear Spaceship: Step-by-Step Tutorial | Factorio Space Age](https://www.youtube.com/watch?v=uJwbb6Olrw4) on my YouTube channel, Maxiume. This unique design is a nuclear-powered spaceship equipped with laser turrets for defense and for cargo transfer between inner planets.
 
 ## Blueprint Overview
 - **Purpose**: A hauler for cargo transfer between inner planets.
