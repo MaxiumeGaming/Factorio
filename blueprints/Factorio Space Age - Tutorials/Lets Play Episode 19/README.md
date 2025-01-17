@@ -13,11 +13,11 @@ This folder contains the blueprints featured in the [Tileable Defense, Solid Fue
 
 ## Usage
 
-Copy the blueprint string from the files and import them into your Factorio blueprint library. Watch the tutorial for step-by-step instructions on setting up and optimizing these designs.
+Copy the blueprint string from the files and import them into your Factorio blueprint library.
 
-## Video Tutorial
+## Video
 
-For a detailed walkthrough and tips on using these blueprints, watch the full tutorial here:  
+For a detailed walkthrough and tips on using these blueprints, watch the full let's play here:  
 [Tileable Defense, Solid Fuel and Power Shortage [FREE Blueprints] | 19 | Factorio Space Age](https://www.youtube.com/watch?v=Kn2srw2a4Rw)
 
 Happy building, and may your factory thrive in both efficiency and security!
