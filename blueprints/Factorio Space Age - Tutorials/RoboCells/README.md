@@ -1,6 +1,6 @@
 # Factorio Tileable Blueprints: RoboCell Grid Blocks (With & Without Lamps)
 
-This repository contains the blueprint book featured in the [RoboCell Design Marathon! [FREE Blueprints] | Factorio Space Age Ep. 20](https://www.youtube.com/watch?v=TG_-7L9bm1s) video on my YouTube channel, Maxiume. The RoboCell is a modular, grid-aligned blueprint designed to provide **perfect robot coverage** for both logistics and construction bots—ideal for structured factory building and future planetary expansion.
+This repository contains the blueprint book featured in the [RoboCell Design Marathon! [FREE Blueprints] | Factorio Space Age Ep. 20](https://www.youtube.com/watch?v=TG_-7L9bm1s) video on my YouTube channel, Maxiume. The RoboCell is a modular, grid-aligned blueprint designed to provide **perfect robot coverage** for both logistics and construction bots, ideal for structured factory building and future planetary expansion.
 
 ## Included Blueprints
 
@@ -29,11 +29,11 @@ This repository contains the blueprint book featured in the [RoboCell Design Mar
 
 ## Usage
 
-Copy the blueprint string from the files in this repository and import them into your Factorio blueprint library. The book includes both variants—simply pick your preferred version and tile away.
+Copy the blueprint string from the files in this repository and import them into your Factorio blueprint library. The book includes both variants. Simply pick your preferred version and tile away.
 
 ## Video
 
 For a full design breakdown, rationale, and live testing of the RoboCell concept, watch the full episode here:  
 [RoboCell Design Marathon! [FREE Blueprints] | Factorio Space Age Ep. 20](https://www.youtube.com/watch?v=TG_-7L9bm1s)
 
-Happy building—and remember: the factory must be structured! 🏗️⚙️
+Happy building, and remember: the factory must be structured! 🏗️⚙️
