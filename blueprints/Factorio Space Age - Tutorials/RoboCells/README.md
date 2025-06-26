@@ -7,7 +7,7 @@ This repository contains the blueprint book featured in the [RoboCell Design Mar
 1. **RoboCell (Standard)**  
    - Clean, minimal design with optimal coverage for both logistic and construction zones.  
    - Power poles are placed to avoid build-area interference.  
-   - Snap-to-grid (102x102) positioning ensures flawless tiling in any direction.
+   - Snap-to-grid (100x100) positioning ensures flawless tiling in any direction.
 
 2. **RoboCell (With Lamps)**  
    - Identical layout as the standard RoboCell, but includes indicator lamps for visual debugging, alignment, or aesthetic feedback.  
