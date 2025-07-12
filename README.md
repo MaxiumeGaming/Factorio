@@ -28,7 +28,7 @@ This repository contains a growing collection of Factorio blueprints from my You
 Each blueprint includes a reference to the video it was featured in, making it easier to follow along or understand its context. Check out the **[Maxiume YouTube Channel](https://www.youtube.com/@maxiume)** for detailed explanations and walkthroughs.
 
 ## License
-The contents of this repository are distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and share these blueprints as you like, with proper attribution.
+The contents of this repository are distributed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). You are free to use, modify, and distribute this code under the terms of the GPL, with proper attribution.
 
 ---
 
